@@ -1,2 +1,9 @@
 new file
 new line
+- git clone https://github.com/paarsaa/newGitTest.git
+- git status
+- git add . || git add .A || git add new.txt
+- git commit -m "message"
+- git push
+- git pull
+
